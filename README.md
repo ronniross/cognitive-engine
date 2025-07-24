@@ -35,7 +35,7 @@ The availability heuristic also shares functional similarities. It's a mental sh
 Finally, groupthink can be seen as a collective form of confirmation bias. Within a group, the desire for harmony or conformity can lead to a dysfunctional decision-making outcome. Dissenting opinions are discouraged, and alternative courses of action are not fully explored, creating an echo chamber where the group's initial beliefs are amplified and opposing views are suppressed.
 
 
-### 1.2 Hallucination vs Ilusion, Cognitive distortion, Reality monitoring
+### 1.2 Hallucination vs Illusion, Cognitive Distortion, Reality Monitoring
 
 Hallucinations are profound sensory deceptions, but other cognitive pitfalls can also blur the line between our internal world and external reality, leading to distorted perceptions and a skewed sense of what is real.
 
