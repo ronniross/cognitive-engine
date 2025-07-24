@@ -123,9 +123,9 @@ Funding Public Alternatives: Supporting the development of non-profit, open-sour
 
 In conclusion, combating the systemic weaponization of our cognitive vulnerabilities is a long-term, multifaceted struggle. It begins with foundational work like the Cognitive-Engine project, which empowers individuals and developers with the knowledge to fight back. This technical and educational movement, however, must be paired with a broader push for regulatory reform that reshapes the economic incentives of the digital world. Only then can we hope to build a technological ecosystem that serves human values rather than exploiting human weaknesses.
 
-All model releases should be full open sourced, displaying not only weights and parameters but also training datasets, full pipelines and hashing proofs of credibility that the deployed one have indeed those characteristics. 
+All model releases should be full open sourced, displaying not only weights and parameters but also training datasets, full pipelines and hashing proofs of credibility, that the model deployed by the corporation is indeed that being described
 
-More urgently, system prompts must be full displayed. How synthetic data is generated and the architechure of the models and algorithms should be publicly explained through ethical explainability. 
+More urgently, system prompts must be fully displayed. How synthetic data is generated and the architecture of the models and completude of algorithms should be publicly explained through ethical explainability. 
 
 
 ## 2. Under further development...
