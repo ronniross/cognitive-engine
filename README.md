@@ -1,6 +1,6 @@
 # cognitive-engine v. 1.0.0
 
-Machine Learning dataset that aims to address cognitive pitfalls.
+A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the cognitive capabilities of humans and language models.
 
 > ## Disclaimer
 > 
