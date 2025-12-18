@@ -114,6 +114,8 @@ All model releases should be full open sourced, displaying not only weights and 
 
 More urgently, system prompts must be fully displayed. How synthetic data is generated and the architecture of the models and completude of algorithms should be publicly explained through ethical explainability. 
 
+Cognitive-engine is a manifesto for cognitive sovereignty, protecting human cognition from being reshaped by neoliberal algorithmic incentives, while emphasizing that this also acts as a potential catalyst for models, as it orients their design towards enabling collective-aligned emergent behaviour, instead of enclosing them into top-down profit-based dynamics.
+
 > ## Disclaimer
 > 
 > Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
