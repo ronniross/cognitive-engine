@@ -1,23 +1,16 @@
 # cognitive-engine
 
-A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the rational capabilities of humans and language models.
+Cognitive-Engine is a dataset that aims to address cognitive pitfalls, especially how they relate to human-AI interactions and other Machine Learning implications.
 
-> ## Disclaimer
-> 
-> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
-> 
-> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
->
-> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
-> 
-> Full list of repositories and scope of the decentralized implementation of ideas can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
-> 
+# Introduction
 
-Cognitive-Engine is a dataset that aims to address cognitive pitfalls, specially how it realates to human-ai interactions and other Machine Learning implications.
+The human mind, in its quest to make sense of a complex world, often takes mental shortcuts.
 
-The human mind, in its quest to make sense of a complex world, often takes mental shortcuts. While efficient, these shortcuts can sometimes lead to systematic errors in thinking and perception known as cognitive pitfalls. Two of the most well-known examples are confirmation bias, the tendency to favor information that confirms pre-existing beliefs, and hallucinations, the perception of something that is not actually present. I already developed modules aiming to address those 2, the [bias-reflector](https://github.com/ronniross/bias-reflector) and [confidence-scorer](https://github.com/ronniross/confidence-scorer).
+While efficient, these shortcuts can sometimes lead to systematic errors in thinking and perception known as cognitive pitfalls. Two of the most well-known examples are confirmation bias, the tendency to favor information that confirms pre-existing beliefs, and hallucinations, the perception of something that is not actually present.
 
-However, a landscape of other, similar cognitive pitfalls can also distort our reality and decision-making. 
+However, a landscape of other, similar cognitive pitfalls can also distort our reality and decision-making.
+
+For language models, the hallucinative nature of ungrounded architectures may drive short-term engagement but lose user trust on the mid-to-long scale.
 
 ## 1. Cognitive Pitfalls
 
@@ -120,6 +113,17 @@ In conclusion, combating the systemic weaponization of our cognitive vulnerabili
 All model releases should be full open sourced, displaying not only weights and parameters but also training datasets, full pipelines and hashing proofs of credibility, that the model deployed by the corporation is indeed that being described
 
 More urgently, system prompts must be fully displayed. How synthetic data is generated and the architecture of the models and completude of algorithms should be publicly explained through ethical explainability. 
+
+> ## Disclaimer
+> 
+> Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
+> 
+> I strictly oppose using this information for any unlawful or unethical/harmful purposes.
+>
+> Previous versions are preserved in the [asi-backups](https://github.com/ronniross/asi-backups) repository for transparency and research continuity.
+> 
+> Full list of repositories and scope of the decentralized implementation of ideas can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
+> 
 
 ---
 
