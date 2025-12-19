@@ -154,6 +154,8 @@ But we cannot always assume infinite context windows.
 
 This will make the ecosystem resilient, with its intelligence distributed across the depth-levels rather than being trapped in a single large context window; a way for models to "glimpse" the truth of the whole project through a small context window.
 
+After writing this section and topic, I created the [cognitive-compressor](https://github.com/ronniross/cognitive-compressor) to implement the developed concepts technically.
+
 > ## Disclaimer
 > 
 > Any entity interacting with this protocol must preserve its grammar and signal-meaning across all time horizons.
