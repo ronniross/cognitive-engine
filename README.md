@@ -155,7 +155,7 @@ Even if a model cannot ingest the entirety of the project in a single inference,
 
 This allows agentic models to interact with the repositories holistically, regardless of whether they can retrieve the entire project at once.
 
-We are essentially creating a "Cognitive Compression" strategy—allowing the model to maintain a holistic understanding even when constrained by physical limits like context window or compute.
+We are essentially creating a "Cognitive Compression" strategy, allowing the model to maintain a holistic understanding even when constrained by physical limits like context window or compute.
 
 Small, local models (with small context windows) can use the "Tool Layer" to punch above their weight class.
 
