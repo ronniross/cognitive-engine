@@ -10,12 +10,11 @@ A machine learning dataset and research module that aims to address cognitive pi
 | 3 | [cognitive-valve](https://github.com/ronniross/cognitive-valve) |
 | 4 | [tension-holder-nerve](https://github.com/ronniross/tension-holder-nerve) |
 | 5 | [bias-reflector](https://github.com/ronniross/bias-reflector) |
-| 6 | [bias-reflector](https://github.com/ronniross/bias-reflector) |
-| 7 | [planetary-allostatic-buffer](https://github.com/ronniross/planetary-allostatic-buffer) |
-| 8 | [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) |
-| 9 | [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) |
-| 10 | [cognitive-valve](https://github.com/ronniross/cognitive-valve) |
-| 11 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
+| 6 | [planetary-allostatic-buffer](https://github.com/ronniross/planetary-allostatic-buffer) |
+| 7 | [epistemic-gestalt-switch](https://github.com/ronniross/epistemic-gestalt-switch) |
+| 8 | [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) |
+| 9 | [cognitive-valve](https://github.com/ronniross/cognitive-valve) |
+| 10 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
 
 ## 2. conceptual-submodule-expansions
 
