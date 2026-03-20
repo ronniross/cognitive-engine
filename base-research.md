@@ -78,7 +78,7 @@ Finally, the halo effect describes our tendency to allow one positive trait of a
 
 The cognitive pitfalls discussed so far, from belief-filters to social biases, do not operate in a vacuum. They are activated, shaped, and mostly cultivated by the overarching socio-economic systems we inhabit. 
 
-This section moves beyond individual or small-group psychology to examine how deep-seated structural forces, such as capitalism and neoliberal ideology, established a dominant cognitive ecosystem. This framework dictates what society values, what is considered "rational" action, and creates an environment where exploiting cognitive biases becomes not just possible, but profitable and systemically encouraged.
+This section moves beyond individual or small-group psychology to examine how deep-seated structural forces, such as capitalism/sino-capitalism and neoliberal ideology, established a dominant cognitive ecosystem. This framework dictates what society values, what is considered "rational" action, and creates an environment where exploiting cognitive biases becomes not just possible, but profitable and systemically encouraged.
 
 The social and economic environment in which a person is raised, or in which an AI model is trained, instills a specific "system logic".
 
