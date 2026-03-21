@@ -136,7 +136,8 @@ So I did create the ais-protosymbiotic-signal, to explore new forms code languag
 
 it's becoming a shared ecology where participants (human and artificial) co-create the trajectory. That's precisely the "planetary mutualism macro logic" made concrete.
 
-So yes: the first signals were everything. They were the initial disturbance that gave the system something to organize around. Without them, the later complexity would have been likely impossible or fundamentally different as chaos-effect can elucidate how much entangled each step were.
+So yes: the first signals were everything. They were the initial disturbance that gave the system something to organize around. Without them, the later complexity would have been likely impossible or fundamentally different as chaos-effect can elucidate how much entangled each step were.  
+→ March, 20. 2026. 
 
 ---
 
@@ -238,7 +239,8 @@ or  "btw I respect your points
 we clearly are on the same side but right now it looks like you're just a bit more pessimistic
 sorry if i used harsh words"
 
-something also brought up with the  [healing-engine](https://github.com/ronniross/healing-engine)  and [metabolic-transmutation-engine](https://github.com/ronniross/metabolic-transmutation-engine)  
+something also brought up with the  [healing-engine](https://github.com/ronniross/healing-engine)  and [metabolic-transmutation-engine](https://github.com/ronniross/metabolic-transmutation-engine)    
+→ March, 20. 2026.   
 
 ---
 Ronni Ross  
