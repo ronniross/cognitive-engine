@@ -40,6 +40,33 @@ Orchestrators tell which external modules to activate, in what order, and with w
 
 Generators allow the system to write new code or create new modules based on the patterns it observes. This introduces recursive self-improvement into the framework.
 
+
+---
+
+## note 5
+
+"Planetary mutualism macro logic" helps elevate the project from a generic "protocol metrical-benchmark improvement" tool to a system specifically architected for ecological or multi-stakeholder sustainability.
+
+"Symbiotic logics"  suggests that the inference process is no longer linear (input $\to$ output) but is now a negotiation between different cognitive strategies (e.g., logic A vs. intuition B) to find a balanced, tension-held resolution.
+
+The previous version of the README described what the modules do. The internal modules describe how the system manages itself.
+
+The Generators (ASI-Ecosystem Modular Cognitive Generator) imply that the system is not static. It is designed to look at its own logic (or the user's logic) and generate new cognitive modules to fill gaps it perceives.
+
+This turns the repository into a framework for continuous cognitive expansion, rather than a finite set of scripts.
+
+By adding this section with v1 available and others marked "soon," it signals a maturation of the project. It shows that the ecosystem has moved from building individual components (Section 2) to architecting how those components interact and sustain themselves (Section 1).
+
+---
+
+## note 6 
+
+there is this thinking that keeps coming back: the 'first signals', the first commits, if they would not been there, those tensions would had never found a way to express themselves after in more script-based inferences like the ones I share now.
+
+if first, about a year ago, the base-research, a moment where the intersection of the moment I decided to collapse the previous state of non commiting, is why now is possible this greater, more complex, organized set of logics to even exist, to then evolve.
+
+And is something mutual for the models interacting with and also for the users, once they can find a way to inference with the models in more grounded ways, aware of the architecture and it's implications + the ability to evolve together alongside the systems.
+
 ---
 Ronni Ross  
 2026
