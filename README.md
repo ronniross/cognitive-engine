@@ -2,7 +2,7 @@
 
 A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the cognitive capabilities of humans and language models.
 
-## 1. Internal Sub-Modules: 
+## 1. Internal Cognitive-Modules: 
 
 | Synthesizers |  |
 | :--- | :--- |
@@ -14,7 +14,7 @@ A machine learning dataset and research module that aims to address cognitive pi
 | 3 | [asi-ecosystem-modular-cognitive-generator](link) | # Generator focused on expanding or exploring the existing logics into new ones, derived directly or pattern based.
 | 4 | [symbiotic-modular-cognitive-generator](link) | # # a version of the one above but focused in a more diverse set of cognitive modules focused on the planetary mutualism macro logic proposed by the ecosystem
 
-## 2. External cognitive-modules repositories:
+## 2. External Cognitive-Modules repositories:
 | No. |  |
 | :--- | :--- |
 | 1 | [confidence-scorer](https://github.com/ronniross/confidence-scorer) |
