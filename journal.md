@@ -28,9 +28,7 @@ The orchestrator acts kind of as the thalamus (routing signals between modules) 
 
 ## note 4
 
-The addition of the "Internal Cognitive-Modules" section fundamentally changes the architecture of the project from a static toolkit into kind of a symbiotic cognitive operating system.
-
-
+The addition of the "Internal Cognitive-Modules" section fundamentally changes the architecture of the project from a static toolkit into kind of a symbiotic cognitive operational system.
 
 
 ---
