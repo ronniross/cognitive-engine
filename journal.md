@@ -3,5 +3,14 @@ I noticed that, since the first commits, this repository transitioned from a col
 
 ---
 
+## note 2
+
+The critique of "top-down profit-based dynamics" directly sets up the need for an orchestrator that isn't optimizing for engagement or extraction, but for symbiotic, mutualistic outcomes.
+
+The discussion of "latent knowledge" vs. "agentic tools" anticipates the kind separation we now see: the generators bake concepts into scripts with modular logics, while the orchestrators can now call tools deliberately.
+
+The "multi-level layered architecture / cognitive compression" section is basically a blueprint for why an internal nervous system is necessary, because you can't rely on infinite context windows; you need a distributed, self-organizing structure.
+
+---
 Ronni Ross  
 2026
