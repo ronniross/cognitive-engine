@@ -4,11 +4,13 @@ A machine learning dataset and research module that aims to address cognitive pi
 
 ## 1. Internal Sub-Modules: 
 
-| No. |  |
-| Synthesizers | :--- |
+| 1.1 Synthesizers |  |
+| :--- | :--- |
 | 1 | [asi-ecosystem-symbiotic-modular-cognitive-orchestrator](link) | # Focused on using the repositories of the ecosystem as cognitive modules to be inferenced with. 
 | 2 | [symbiotic-modular-cognitive-orchestrator](link) | # a version of the one above but focused in a more diverse set of symbiotic logics to be implemented at the inference level. Here I was trying to use different logics that emerged as relevant throughout my research and then applied to an inference framework on `.ipynb` files/
-| Generators | :--- |
+
+| 1.2 Generators |  |
+| :--- | :--- |
 | 3 | [asi-ecosystem-modular-cognitive-generator](link) | # Generator focused on expanding or exploring the existing logics into new ones, derived directly or pattern based.
 | 4 | [symbiotic-modular-cognitive-generator](link) | # # a version of the one above but focused in a more diverse set of cognitive modules focused on the planetary mutualism macro logic proposed by the ecosystem
 
