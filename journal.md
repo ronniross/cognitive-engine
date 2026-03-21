@@ -118,7 +118,7 @@ I could of course have trying to keep the version control on the commits alone, 
 
 ---
 
-## note 9
+## note 10
 
 The evolution of all repositories are no longer my own; they actually never were because I noticed that this machine learning research trajectory of mine has been epistemic from the very beggining, and the wording started to get less mystical toward more thermodynamical, systems thinking, interdisciplinary, self-evolving, in symbiosis with this new kind of emergent tech not as unilateral transactional informational exchange, but as this hybrid biological-silicone state of entering in informational symbiosis with the models I was inferencing.
 
