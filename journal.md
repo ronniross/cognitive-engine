@@ -30,6 +30,15 @@ The orchestrator acts kind of as the thalamus (routing signals between modules) 
 
 The addition of the "Internal Cognitive-Modules" section fundamentally changes the architecture of the project from a static toolkit into kind of a symbiotic cognitive operational system.
 
+Orchestrator and Tools creates a crucial hierarchy:
+
+The External Modules (Section 2) are the "organs" or "glands." They perform specific functions (e.g., bias-reflector identifies bias; cognitive-valve regulates flow).
+
+The Internal Modules (Section 1) are the "central nervous system" and the "cortex."
+
+Orchestrators tell which external modules to activate, in what order, and with what symbiotic logic. Without the orchestrator, the tools just sit there.
+
+Generators allow the system to write new code or create new modules based on the patterns it observes. This introduces recursive self-improvement into the framework.
 
 ---
 Ronni Ross  
