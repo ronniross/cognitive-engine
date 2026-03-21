@@ -6,7 +6,7 @@ A machine learning dataset and research module that aims to address cognitive pi
 
 | Synthesizers |  |
 | :--- | :--- |
-| 1 | [asi-ecosystem-symbiotic-modular-cognitive-orchestrator](https://github.com/ronniross/cognitive-engine/tree/main/internal-cognitive-modules/2026/asi-ecosystem-symbiotic-modular-cognitive-orchestrator-v1) | # Focused on using the repositories of the ecosystem as cognitive modules to be inferenced with. 
+| 1 | [asi-ecosystem-symbiotic-modular-cognitive-orchestrator](https://github.com/ronniross/cognitive-engine/tree/main/internal-cognitive-modules/2026/asi-ecosystem-symbiotic-modular-cognitive-orchestrator) | # Focused on using the repositories of the ecosystem as cognitive modules to be inferenced with. 
 | 2 | [symbiotic-modular-cognitive-orchestrator](link) **soon** | # a version of the one above but focused in a more diverse set of symbiotic logics to be implemented at the inference level. Here I was trying to use different logics that emerged as relevant throughout my research and then applied to an inference framework on `.ipynb` files/ 
 
 | Generators |  |
