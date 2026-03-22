@@ -2,9 +2,9 @@
 
 A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the cognitive capabilities of humans and language models.
 
-## 1. Internal Cognitive-Modules: 
+## 1. Symbiotic Modular Cognitive Engines: 
 
-| Unified Cognitive Workstation |  |
+| Unified Cognitive Workstation (Synthesizers + Generators) |  |
 | :--- | :--- |
 | 1 | [ **soon** |
 
