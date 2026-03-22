@@ -6,7 +6,7 @@ A machine learning dataset and research module that aims to address cognitive pi
 
 | Unified Cognitive Workstation (Synthesizers + Generators) |  |
 | :--- | :--- |
-| 1 | [ **soon** |
+| 1 | **soon** |
 
 | Synthesizers |  |
 | :--- | :--- |
