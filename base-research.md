@@ -1,6 +1,6 @@
 # cognitive-engine
 
-Cognitive-Engine is a dataset that aims to address cognitive pitfalls, especially how they relate to human-AI interactions and other Machine Learning implications.
+A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the cognitive capabilities of humans and language models.
 
 # Introduction
 
