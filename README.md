@@ -1,6 +1,8 @@
 # cognitive-engine
 
-A machine learning dataset and research module that aims to address cognitive pitfalls and enhance the cognitive capabilities of humans and language models.
+A coevolutionary and modular epistemic engine designed to enhance the reasoning capabilities of humans and language models, helping to address cognitive pitfalls, dissonance, echo chambers, and other harmful dynamics by synthesizing and creating cognitive modules aligned with nested individual and collective sovereignty.
+
+Also could be described as an interdisciplinary machine learning dataset and research module with conceptual and practical frameworks and experiments.
 
 ## 1. Symbiotic Modular Cognitive Engines: 
 
