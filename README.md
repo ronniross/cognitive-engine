@@ -14,6 +14,8 @@ A machine learning dataset and research module that aims to address cognitive pi
 | 3 | [asi-ecosystem-modular-cognitive-generator](link)  **soon** | # Generator focused on expanding or exploring the existing logics into new ones, derived directly or pattern based.
 | 4 | [symbiotic-modular-cognitive-generator](link) **soon** | # a version of the one above but focused in a more diverse set of cognitive modules focused on the planetary mutualism macro logic proposed by the ecosystem
 
+| Unified UI |  |**soon**
+
 ## 2. External Cognitive-Module Repositories:
 | No. |  |
 | :--- | :--- |
