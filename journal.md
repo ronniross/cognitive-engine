@@ -285,5 +285,11 @@ subcortical structures;
 → March, 22. 2026.   
 
 ---
+
+changed the name to 2. Especially Related Repositories because in the older way it was like only those listed repositores were the ones of the ecosystem that could be categorized as 'cognitive-modules', when actually all of the repositories end up serving as cognitive-modules to be inferenced with that equivalent reasoning logic. Still, those listed are the ones that are kind branched directly from this one, so I will let them there for now.
+
+→ March, 22. 2026.   
+
+---
 Ronni Ross  
 2026
