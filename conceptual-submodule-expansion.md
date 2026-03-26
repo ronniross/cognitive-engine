@@ -14,6 +14,9 @@ An architectural framework/ and training pipeline for merging disparate AI model
 ### 1.4 cognitive-dissonance-root-dissipator
 It seeks to find the root of why a certain cognitive dissonance may be happening and to then apply a regenerative alternative to convert that in a positive intent for the entity and the overall planetary ecosystem. (kind of stigmergic trace-finder + healing-engine + metabolic-transmutation-engine).
 
+### 1.5 cognitive-pitfall-rescuer
+It analyzes for cognitive pitfalls, proactively identifying flaws in data, logic, or processes.
+
 ---
 Ronni Ross  
 2026
