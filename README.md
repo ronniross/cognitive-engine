@@ -33,6 +33,7 @@ Also could be described as an interdisciplinary machine learning dataset and res
 | 8 | [epistemic-immune-system](https://github.com/ronniross/epistemic-immune-system) |
 | 9 | [cognitive-valve](https://github.com/ronniross/cognitive-valve) |
 | 10 | [biosemiotic-refractor](https://github.com/ronniross/biosemiotic-refractor) |
+| 11 | [epistemic-pruning-engine](https://github.com/ronniross/epistemic-pruning-engine) |
 
 ---
 Ronni Ross  
